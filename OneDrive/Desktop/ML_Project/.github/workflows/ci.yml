@@ -2,9 +2,9 @@ name: ML Project CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ thirsty ]
   pull_request:
-    branches: [ main ]
+    branches: [ thirsty ]
 
 jobs:
   build:
